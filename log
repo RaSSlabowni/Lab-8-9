@@ -1,0 +1,37 @@
+2021-12-23 00:11:17,860 - Logger - INFO - Program started
+2021-12-23 00:11:47,865 - Logger - INFO - Program started
+2021-12-23 00:11:51,365 - Logger - INFO - Added coordinates (2; 3) and (4; 1) and chosen f bishop
+2021-12-23 00:11:51,365 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:11:51,366 - Logger - INFO - Слон угрожает полю (4; 1)
+2021-12-23 00:11:51,366 - Logger - INFO - 
+Хотите продолжить? (Да/Нет)
+
+2021-12-23 00:11:55,573 - Logger - INFO - Program started
+2021-12-23 00:11:58,744 - Logger - ERROR - Incorrect value. Incorrect input. Try again. 
+2021-12-23 00:11:58,745 - Logger - INFO - Program started
+2021-12-23 00:12:07,061 - Logger - INFO - Added coordinates (3; 4) and (2; 1) and chosen f bishop
+2021-12-23 00:12:07,062 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:12:07,062 - Logger - INFO - Слон не представляет угрозы полю (2; 1)
+2021-12-23 00:12:07,062 - Logger - INFO - Чтобы за два хода попасть в это поле необходимо встать на поле (1; 2)
+2021-12-23 00:12:07,062 - Logger - INFO - 
+Хотите продолжить? (Да/Нет)
+
+2021-12-23 00:12:11,112 - Logger - INFO - Program started
+2021-12-23 00:12:15,723 - Logger - ERROR - Incorrect data has been entered (Out of range). Try again.
+2021-12-23 00:12:15,723 - Logger - INFO - Program started
+2021-12-23 00:12:25,445 - Logger - ERROR - Incorrect data has been entered (Out of range). Try again.
+2021-12-23 00:12:25,446 - Logger - INFO - Program started
+2021-12-23 00:12:32,209 - Logger - INFO - Added coordinates (2; 3) and (4; 5) and chosen f ferz
+2021-12-23 00:12:32,209 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:12:32,210 - Logger - INFO - output: Ферзь угрожает полю (4; 5)
+2021-12-23 00:12:32,210 - Logger - INFO - 
+Хотите продолжить? (Да/Нет)
+
+2021-12-23 00:12:37,550 - Logger - INFO - Program started
+2021-12-23 00:12:52,742 - Logger - INFO - Added coordinates (3; 4) and (3; 2) and chosen f bishop
+2021-12-23 00:12:52,742 - Logger - INFO - output: Оба поля чёрного цвета
+2021-12-23 00:12:52,743 - Logger - INFO - Слон не представляет угрозы полю (3; 2)
+2021-12-23 00:12:52,743 - Logger - INFO - Чтобы за два хода попасть в это поле необходимо встать на поле (2; 3)
+2021-12-23 00:12:52,743 - Logger - INFO - 
+Хотите продолжить? (Да/Нет)
+
